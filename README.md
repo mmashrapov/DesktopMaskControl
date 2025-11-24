@@ -73,8 +73,8 @@ This JavaFX-based application is designed to manage an oxygen mask, record senso
 ![Group Creation](./screenshots/doctor.png)
 
 ## Authors
-- Dmitriy Barvinok (Lead Developer)
-- Madi Mashrapov (Co-Developer)
+- Dmitriy Barvinok
+- Madi Mashrapov
 
 ## Public Release
 This project was originally developed by independent developers and is published under MIT License for open use.
